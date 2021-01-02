@@ -1,7 +1,5 @@
 # 210102
-package basic;
-//0102
-import java.util.Scanner;
+
 
 public class CodeUp1468 {
 
